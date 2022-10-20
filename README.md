@@ -26,5 +26,6 @@ This is a repository(repo) containing items(emails and domains) that have been i
 7. A commit message is required to commit.
 8. Use the commit message "update spam defender_(date of update)"
 9. Then commit the changes made, this saves your update to the repo.
+10. Once you have committed your update, please test it to ensure that it is working and to check fot typos.
 
 Thank you.
