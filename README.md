@@ -32,4 +32,12 @@ This is a repository(repo) containing items(emails and domains) that have been i
 10. Then commit the changes made, this saves your update to the repo.
 11. Once you have committed your update, please test it to ensure that it is working and to check fot typos.
 
-Thank you.
+#Sites Currently Running Spam Defender
+1. https://workplaceco.co.uk/
+2. https://www.contractinteriorsystems.co.uk/
+3. https://www.gravityofficeinteriors.co.uk/
+4. https://www.ceilingtilesuk.co.uk/
+5. https://workplaceinteriorshop.co.uk/
+6. https://www.glasspartitioninguk.co.uk/
+
+Thank you
