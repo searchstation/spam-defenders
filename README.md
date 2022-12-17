@@ -4,7 +4,7 @@ This is a repository(repo) containing items(emails and domains) that have been i
 # Please note
 1. The format for the files in this repo aren't traditional document files (like .doc, .pdf, etc)
 2. A lot of care must be taken to ensure that the structure is followed exactly as instructed.
-3. If any inputted email doesn't follow the structure as instucted, the entire file might be corrupted.
+3. If any inputted email doesn't follow the structure as instructed, the entire file might be corrupted.
 4. If the entire file is corrupted, all the websites that the spam defender protects would become vulnerable.
 5. It might take a about 3-5 minutes for the changes to be effected, but please ensure that they are effected.
 6. Please DO NOT, alter the structure of the JSON file, take care to ensure of this.
@@ -13,7 +13,7 @@ This is a repository(repo) containing items(emails and domains) that have been i
 # What to do
 1. If you are adding an item(email) with the format "abcd@somemail.com" it goes into the "blacklist_full" file.
 2. If you are adding an item(domain) with the format "@somemail.com" it goes into the "blacklist_part" file.
-3. When you are in the file you want to update, click the pencil option (or the dropdon beside the pencil to edit the file." 
+3. When you are in the file you want to update, click the pencil option (or the dropdown beside the pencil to edit the file). 
 4. Ensure that the contents of any file you wish to update are enclosed in square brackets "[ ]".
 5. They have to be square brackets.
 6. Add items to the bottom of the list.
