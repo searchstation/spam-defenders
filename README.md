@@ -13,11 +13,12 @@ This is a repository(repo) containing items(emails and domains) that have been i
 # What to do
 1. If you are adding an item(email) with the format "abcd@somemail.com" it goes into the "blacklist_full" file.
 2. If you are adding an item(domain) with the format "@somemail.com" it goes into the "blacklist_part" file.
-3. When you are in the file you want to update, click the pencil option (or the dropdown beside the pencil to edit the file). 
-4. Ensure that the contents of any file you wish to update are enclosed in square brackets "[ ]".
-5. They have to be square brackets.
-6. Add items to the bottom of the list.
-7. Please ENSURE that the structure of the JSON file is not tampered with, take care to ensure of this.
+3. The items (emails & domains) are arranged in alphabetical order to prevent duplication, please ensure you follow this order.
+4. When you are in the file you want to update, click the pencil option (or the dropdown beside the pencil to edit the file). 
+5. Ensure that the contents of any file you wish to update are enclosed in square brackets "[ ]".
+6. They have to be square brackets.
+7. Add items to the bottom of the list.
+8. Please ENSURE that the structure of the JSON file is not tampered with, take care to ensure of this.
 
 # Steps when adding an item
 1. Before you add an item, put a comma on the last item.
